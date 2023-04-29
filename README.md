@@ -12,11 +12,13 @@ Database design, SQL
 SDLC principles, object-oriented programming
 
 🚀 Projects
+
 task-savvy!: An iOS productivity app that integrates with Facebook login through the Facebook API. Developed using Swift, and designed using Figma and Zeplin for an intuitive user experience.
 
 Coronalytics: A visually engaging web app showcasing weekly and total COVID-19 cases and deaths in Canada. Developed with JavaScript using JSON data sourced from Health Canada.
 
 🎓 Education
+
 Advanced Diploma: Software Development and Network Engineering - Sheridan College, Oakville, ON (December 2023)
 
 GPA: 3.73/4.0 - Completing the 3rd year of a 3-year program.
