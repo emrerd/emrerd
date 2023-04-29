@@ -20,6 +20,7 @@ Coronalytics: A visually engaging web app showcasing weekly and total COVID-19 c
 Advanced Diploma: Software Development and Network Engineering - Sheridan College, Oakville, ON (December 2023)
 
 GPA: 3.73/4.0 - Completing the 3rd year of a 3-year program.
+
 Feel free to connect with me here on GitHub or reach out to me at erdonmez@sheridancollege.ca!
 
 <!---
